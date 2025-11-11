@@ -1,6 +1,6 @@
 ### Project Purpose
 
-This package is designed to simplify protyping xgboost models on relatively simple datasets easier.
+This package is designed to simplify protyping xgboost models on relatively simple datasets.
 
 ##### Project modules
 
